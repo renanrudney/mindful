@@ -31,7 +31,7 @@
 
 1. Thays Cristhina - Music Theme
 2. Yuri Nicolaiko - UI Design
-3. Emanuel dos Santos Leiros - Main Menu
+3. Emanuel dos Santos Leiros - Main Menu Image
 4. Bruno Assolari - Pixel Image
 5. Gibiteca - Game Art
 
