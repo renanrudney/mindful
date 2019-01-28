@@ -13,7 +13,9 @@
 🎤 **Pitch**:
 [Video Presentation](https://www.youtube.com/watch?v=hO9ojuve4Ec&feature=youtu.be)
 
-📜 **Documentation:** [Global Game Jam 2019](https://globalgamejam.org/2019/games/mindfuls)
+📜 **Documentation:** [Global Game Jam 2019](https://globalgamejam.org/2019/games/mindful)
+
+🎮 **Download Link:** [Play Store](https://play.google.com/store/apps/details?id=com.Otala.Mindful)
 
 ## Members:
 
